@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-maddalajairam%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddalajairam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jairammaddala-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairammaddala)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai%20Maddala-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-m-433741395)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://jairammaddala.github.io/jairammaddala/)
 
 </div>
 
@@ -147,6 +148,7 @@ I am open to software engineering, data engineering, AI application engineering,
 [![Email](https://img.shields.io/badge/Email-maddalajairam%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddalajairam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jairammaddala-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairammaddala)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai%20Maddala-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-m-433741395)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://jairammaddala.github.io/jairammaddala/)
 
 </div>
 
