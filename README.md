@@ -150,4 +150,37 @@ I am open to software engineering, data engineering, AI application engineering,
 
 </div>
 
+---
+
+<details>
+<summary><b>Portfolio Website Deployment</b></summary>
+
+This repository also contains a static personal portfolio website.
+
+Files:
+- `index.html`
+- `styles.css`
+- `script.js`
+- `.gitignore`
+
+Run locally:
+
+```bash
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+Deploy on GitHub Pages:
+1. Open this repository on GitHub.
+2. Go to `Settings` -> `Pages`.
+3. Under `Build and deployment`, choose `Deploy from a branch`.
+4. Select branch `main` and folder `/root`.
+5. Save. GitHub Pages will publish the site after the workflow finishes.
+
+Expected project page URL:
+`https://jairammaddala.github.io/jairammaddala/`
+
+</details>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,50:2563eb,100:0f172a&section=footer" alt="animated footer wave" />
