@@ -130,18 +130,6 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=jairammaddala&theme=tokyonight&hide_border=true" alt="Jairam Maddala GitHub streak stats" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jairammaddala&theme=tokyo-night&hide_border=true&area=true" alt="Jairam Maddala contribution activity graph" />
-
-</div>
-
----
-
 ## Education
 
 **Master of Science in Information Technology**  
