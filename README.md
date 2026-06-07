@@ -84,12 +84,13 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
   <tr>
     <td width="50%" valign="top">
       <h3>Enterprise Budgeting App Modernization with Snowflake</h3>
-      <p>A Snowflake-focused portfolio repository for enterprise budgeting application modernization. The repository is currently being built out, so implementation details will be expanded as project files and documentation are added.</p>
+      <p>SQL Server financial planning and budgeting modernization challenge set for Snowflake. Models enterprise budgeting objects with 8 tables, table types, scalar and table-valued functions, XML-heavy views, and complex stored procedures covering hierarchies, temporal tables, dynamic SQL, bulk import, transaction handling, and financial-close orchestration.</p>
       <p>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-        <img src="https://img.shields.io/badge/App%20Modernization-7C3AED?style=flat-square" alt="App Modernization" />
-        <img src="https://img.shields.io/badge/Enterprise%20Budgeting-0EA5E9?style=flat-square" alt="Enterprise Budgeting" />
-        <img src="https://img.shields.io/badge/Data%20Platform-0F172A?style=flat-square" alt="Data Platform" />
+        <img src="https://img.shields.io/badge/Migration%20Challenge-7C3AED?style=flat-square" alt="Migration Challenge" />
+        <img src="https://img.shields.io/badge/Stored%20Procedures-0EA5E9?style=flat-square" alt="Stored Procedures" />
+        <img src="https://img.shields.io/badge/Enterprise%20Budgeting-0F172A?style=flat-square" alt="Enterprise Budgeting" />
       </p>
       <p><a href="https://github.com/jairammaddala/Enterprise-Budgeting-App-Modernization-with-Snowflake"><b>View Repository</b></a></p>
     </td>
