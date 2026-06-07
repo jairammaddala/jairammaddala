@@ -104,16 +104,7 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Git and GitHub Practice</h3>
-      <p>A lightweight repository used for Git/GitHub fundamentals and version-control workflow practice.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-      <p><a href="https://github.com/jairammaddala/git-github"><b>View Repository</b></a></p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>Enterprise AI and Data Engineering Experience</h3>
       <p>Professional work includes RAG platforms over governed banking documents, LLM support automation, evaluation frameworks, observability dashboards, ETL/ELT pipelines, SCD modeling, and validation systems.</p>
       <p>
@@ -139,18 +130,13 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jairammaddala&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Jairam Maddala GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairammaddala&layout=compact&theme=tokyonight&hide_border=true" alt="Jairam Maddala top languages" />
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=jairammaddala&theme=tokyonight&hide_border=true" alt="Jairam Maddala GitHub streak stats" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jairammaddala&theme=tokyo-night&hide_border=true&area=true" alt="Jairam Maddala contribution activity graph" />
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=jairammaddala&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=6" alt="Jairam Maddala GitHub profile trophies" />
 
 </div>
 
