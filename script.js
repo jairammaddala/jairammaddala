@@ -1,3 +1,51 @@
+const portraitStyles = document.createElement('style');
+portraitStyles.textContent = `
+  .hero-visual {
+    display: grid;
+    gap: 22px;
+  }
+
+  .portrait-frame {
+    position: relative;
+    padding: 10px;
+    border: 1px solid rgba(56, 189, 248, 0.32);
+    border-radius: 26px;
+    background: linear-gradient(135deg, rgba(56, 189, 248, 0.22), rgba(124, 58, 237, 0.24));
+    box-shadow: 0 28px 90px rgba(0, 0, 0, 0.36), 0 0 42px rgba(56, 189, 248, 0.14);
+    overflow: hidden;
+  }
+
+  .portrait-frame::before {
+    content: "";
+    position: absolute;
+    inset: -40% auto auto -30%;
+    width: 180px;
+    height: 180px;
+    border-radius: 999px;
+    background: rgba(34, 211, 238, 0.28);
+    filter: blur(22px);
+  }
+
+  .portrait-frame img {
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: 48% 22%;
+    border-radius: 18px;
+    filter: saturate(1.04) contrast(1.04);
+  }
+
+  @media (max-width: 980px) {
+    .hero-visual {
+      max-width: 520px;
+      margin-inline: auto;
+    }
+  }
+`;
+document.head.appendChild(portraitStyles);
+
 const navToggle = document.querySelector('.nav-toggle');
 const navLinks = document.querySelector('.nav-links');
 const navItems = document.querySelectorAll('.nav-links a');
