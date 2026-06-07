@@ -35,7 +35,7 @@ My work focuses on building systems that are accurate, observable, reliable, and
 
 ```text
 AI Application Engineering     RAG, semantic retrieval, LLM evaluation, guardrails
-Data Engineering               Spark, Databricks, Delta Lake, ADF, Synapse, data warehouses
+Data Engineering               Spark, Databricks, Delta Lake, ADF, Synapse, Snowflake
 Backend Reliability            API orchestration, caching, fallback logic, observability
 Data Quality                   Validation, reconciliation, schema enforcement, lineage
 Cloud Platforms                Microsoft Azure, AWS fundamentals
@@ -56,6 +56,7 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
 ### Cloud and Data Platforms
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Synapse](https://img.shields.io/badge/Azure%20Synapse-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -82,6 +83,17 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>Enterprise Budgeting App Modernization with Snowflake</h3>
+      <p>A Snowflake-focused portfolio repository for enterprise budgeting application modernization. The repository is currently being built out, so implementation details will be expanded as project files and documentation are added.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+        <img src="https://img.shields.io/badge/App%20Modernization-7C3AED?style=flat-square" alt="App Modernization" />
+        <img src="https://img.shields.io/badge/Enterprise%20Budgeting-0EA5E9?style=flat-square" alt="Enterprise Budgeting" />
+        <img src="https://img.shields.io/badge/Data%20Platform-0F172A?style=flat-square" alt="Data Platform" />
+      </p>
+      <p><a href="https://github.com/jairammaddala/Enterprise-Budgeting-App-Modernization-with-Snowflake"><b>View Repository</b></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>Netflix Data Engineering Pipeline</h3>
       <p>A portfolio data-engineering project focused on pipeline design, ingestion, transformation, and analytics-ready data processing patterns.</p>
       <p>
@@ -92,6 +104,8 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
       </p>
       <p><a href="https://github.com/jairammaddala/Netflix-data-engineering-pipeline"><b>View Repository</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Retail Data Engineering Pipeline</h3>
       <p>A practical retail-focused data pipeline project showing structured data processing, transformation workflows, and data-engineering portfolio implementation.</p>
@@ -103,9 +117,7 @@ Cloud Platforms                Microsoft Azure, AWS fundamentals
       </p>
       <p><a href="https://github.com/jairammaddala/Retail-data-engineering-pipeline"><b>View Repository</b></a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>Enterprise AI and Data Engineering Experience</h3>
       <p>Professional work includes RAG platforms over governed banking documents, LLM support automation, evaluation frameworks, observability dashboards, ETL/ELT pipelines, SCD modeling, and validation systems.</p>
       <p>
