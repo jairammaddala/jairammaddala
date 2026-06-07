@@ -48,6 +48,13 @@ img {
   max-width: 100%;
 }
 
+/* Defensive cleanup for older GitHub Pages/browser cache that may still serve the removed portrait markup. */
+.hero-visual,
+.portrait-frame,
+img[src*="jairam-profile"] {
+  display: none !important;
+}
+
 .skip-link {
   position: absolute;
   left: 16px;
@@ -422,8 +429,7 @@ h3 {
 
 .project-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
+}\n
 .skill-card,
 .project-card,
 .education-card {
@@ -540,7 +546,7 @@ h3 {
 }
 
 .project-card p,
-.education-card p,
+education-card p,
 .education-card span {
   color: var(--muted);
 }
