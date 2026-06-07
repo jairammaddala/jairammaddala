@@ -1,0 +1,13 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency/build folders if the site later moves to a toolchain
+node_modules/
+dist/
+build/
