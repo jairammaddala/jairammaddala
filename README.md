@@ -15,7 +15,7 @@
 
 ## Professional Snapshot
 
-Software Engineer with 4+ years of experience building AI-powered data systems, LLM-integrated workflows, scalable backend pipelines, and cloud-native data platforms. I work across Python, SQL, PySpark, Apache Spark, Databricks, Azure, and modern AI application patterns including RAG, semantic retrieval, prompt/context optimization, LLM evaluation, and production API orchestration.
+Software Engineer building AI-powered data systems, LLM-integrated workflows, scalable backend pipelines, and cloud-native data platforms. I work across Python, SQL, PySpark, Apache Spark, Databricks, Azure, Snowflake, and modern AI application patterns including RAG, semantic retrieval, prompt/context optimization, LLM evaluation, and production API orchestration.
 
 My work focuses on building systems that are accurate, observable, reliable, and ready for enterprise use, especially in regulated environments where data quality, governance, performance, and auditability matter.
 
